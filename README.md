@@ -1,6 +1,6 @@
 # 🎓 Automated Certificate Generator Pipeline
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ApnarUsername/Automated-Certificate-Pipeline/blob/main/Apnar_Notebook_Name.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanvirRahan/Automated-Certificate-Pipeline/blob/main/certificates.ipynb)
 
 An industry-grade ETL (Extract, Transform, Load) pipeline built with Python to automate the mass generation of professional certificates. It extracts data from structured datasets, dynamically generates role-specific summaries and tracking IDs, and outputs high-quality PDFs.
 
@@ -17,10 +17,10 @@ An industry-grade ETL (Extract, Transform, Load) pipeline built with Python to a
 * **Infrastructure:** `LibreOffice` (Headless environment)
 
 ## 💻 Execution
-This project is designed as an executable documentation via Google Colab. 
+This project is designed as executable documentation via Google Colab. 
 1. Click the **Open in Colab** badge above.
 2. The notebook will automatically fetch the `sample_data.xlsx` and `certificate_template.docx` files from this repository.
-3. Run the cells to observe the pipeline in action.
+3. Run the cells sequentially to observe the pipeline in action.
 
 ---
 *Built with professional workflow automation and data processing standards.*
